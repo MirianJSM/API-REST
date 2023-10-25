@@ -1,0 +1,9 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.9.7 built on Thursday Jun 24, 2021 at 16:14:45 PDT
+---- Dump Properties ---
+Dump file: ajcore.20231025.150859.302.txt
+Dump reason: java.lang.NoClassDefFoundError
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+java.lang.NoClassDefFoundError: Could not initialize class java.lang.StackTraceElement$HashedModules

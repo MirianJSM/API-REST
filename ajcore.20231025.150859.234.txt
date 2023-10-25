@@ -1,0 +1,76 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.9.7 built on Thursday Jun 24, 2021 at 16:14:45 PDT
+---- Dump Properties ---
+Dump file: ajcore.20231025.150859.234.txt
+Dump reason: abort
+Dump on exception: true
+Dump at exit condition: abort
+---- System Properties ---
+java.specification.version=21
+sun.jnu.encoding=UTF-8
+java.class.path=/Users/juniorfranzao/.m2/repository/org/junit/vintage/junit-vintage-engine/5.8.0-M1/junit-vintage-engine-5.8.0-M1.jar:/private/var/folders/93/8rxqlqxx5jg_pbwrb_0rjh1w0000gn/T/AppTranslocation/4C739C93-49D4-4210-9619-F14336027751/d/IntelliJ IDEA.app/Contents/lib/idea_rt.jar:/private/var/folders/93/8rxqlqxx5jg_pbwrb_0rjh1w0000gn/T/AppTranslocation/4C739C93-49D4-4210-9619-F14336027751/d/IntelliJ IDEA.app/Contents/plugins/junit/lib/junit5-rt.jar:/private/var/folders/93/8rxqlqxx5jg_pbwrb_0rjh1w0000gn/T/AppTranslocation/4C739C93-49D4-4210-9619-F14336027751/d/IntelliJ IDEA.app/Contents/plugins/junit/lib/junit-rt.jar:/Users/juniorfranzao/Downloads/SicredDesafio/target/test-classes:/Users/juniorfranzao/Downloads/SicredDesafio/target/classes:/Users/juniorfranzao/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.13.1/log4j-slf4j-impl-2.13.1.jar:/Users/juniorfranzao/.m2/repository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar:/Users/juniorfranzao/.m2/repository/org/apache/logging/log4j/log4j-api/2.13.1/log4j-api-2.13.1.jar:/Users/juniorfranzao/.m2/repository/org/apache/logging/log4j/log4j-core/2.13.1/log4j-core-2.13.1.jar:/Users/juniorfranzao/.m2/repository/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar:/Users/juniorfranzao/.m2/repository/io/rest-assured/rest-assured/4.4.0/rest-assured-4.4.0.jar:/Users/juniorfranzao/.m2/repository/org/codehaus/groovy/groovy/3.0.8/groovy-3.0.8.jar:/Users/juniorfranzao/.m2/repository/org/codehaus/groovy/groovy-xml/3.0.8/groovy-xml-3.0.8.jar:/Users/juniorfranzao/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/juniorfranzao/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/juniorfranzao/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/juniorfranzao/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/juniorfranzao/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/juniorfranzao/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/juniorfranzao/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/juniorfranzao/.m2/repository/io/rest-assured/json-path/4.4.0/json-path-4.4.0.jar:/Users/juniorfranzao/.m2/repository/org/codehaus/groovy/groovy-json/3.0.8/groovy-json-3.0.8.jar:/Users/juniorfranzao/.m2/repository/io/rest-assured/rest-assured-common/4.4.0/rest-assured-common-4.4.0.jar:/Users/juniorfranzao/.m2/repository/io/rest-assured/xml-path/4.4.0/xml-path-4.4.0.jar:/Users/juniorfranzao/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar:/Users/juniorfranzao/.m2/repository/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar:/Users/juniorfranzao/.m2/repository/com/sun/xml/bind/jaxb-impl/2.3.3/jaxb-impl-2.3.3.jar:/Users/juniorfranzao/.m2/repository/io/rest-assured/json-schema-validator/4.4.0/json-schema-validator-4.4.0.jar:/Users/juniorfranzao/.m2/repository/com/github/java-json-tools/json-schema-validator/2.2.14/json-schema-validator-2.2.14.jar:/Users/juniorfranzao/.m2/repository/com/google/guava/guava/28.2-android/guava-28.2-android.jar:/Users/juniorfranzao/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/Users/juniorfranzao/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/juniorfranzao/.m2/repository/org/checkerframework/checker-compat-qual/2.5.5/checker-compat-qual-2.5.5.jar:/Users/juniorfranzao/.m2/repository/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar:/Users/juniorfranzao/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/Users/juniorfranzao/.m2/repository/com/github/java-json-tools/jackson-coreutils-equivalence/1.0/jackson-coreutils-equivalence-1.0.jar:/Users/juniorfranzao/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.jar:/Users/juniorfranzao/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0.jar:/Users/juniorfranzao/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0.jar:/Users/juniorfranzao/.m2/repository/com/github/java-json-tools/jackson-coreutils/2.0/jackson-coreutils-2.0.jar:/Users/juniorfranzao/.m2/repository/com/github/java-json-tools/msg-simple/1.2/msg-simple-1.2.jar:/Users/juniorfranzao/.m2/repository/com/github/java-json-tools/btf/1.3/btf-1.3.jar:/Users/juniorfranzao/.m2/repository/com/github/java-json-tools/json-schema-core/1.2.14/json-schema-core-1.2.14.jar:/Users/juniorfranzao/.m2/repository/com/github/java-json-tools/uri-template/0.10/uri-template-0.10.jar:/Users/juniorfranzao/.m2/repository/org/mozilla/rhino/1.7.7.2/rhino-1.7.7.2.jar:/Users/juniorfranzao/.m2/repository/com/sun/mail/mailapi/1.6.2/mailapi-1.6.2.jar:/Users/juniorfranzao/.m2/repository/joda-time/joda-time/2.10.5/joda-time-2.10.5.jar:/Users/juniorfranzao/.m2/repository/com/googlecode/libphonenumber/libphonenumber/8.11.1/libphonenumber-8.11.1.jar:/Users/juniorfranzao/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/juniorfranzao/.m2/repository/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar:/Users/juniorfranzao/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.0-M1/junit-jupiter-engine-5.8.0-M1.jar:/Users/juniorfranzao/.m2/repository/org/apiguardian/apiguardian-api/1.1.1/apiguardian-api-1.1.1.jar:/Users/juniorfranzao/.m2/repository/org/junit/platform/junit-platform-engine/1.8.0-M1/junit-platform-engine-1.8.0-M1.jar:/Users/juniorfranzao/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/Users/juniorfranzao/.m2/repository/org/junit/platform/junit-platform-commons/1.8.0-M1/junit-platform-commons-1.8.0-M1.jar:/Users/juniorfranzao/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.0-M1/junit-jupiter-api-5.8.0-M1.jar:/Users/juniorfranzao/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.4.20/kotlin-stdlib-jdk8-1.4.20.jar:/Users/juniorfranzao/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.4.20/kotlin-stdlib-1.4.20.jar:/Users/juniorfranzao/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.20/kotlin-stdlib-common-1.4.20.jar:/Users/juniorfranzao/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/Users/juniorfranzao/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.4.20/kotlin-stdlib-jdk7-1.4.20.jar:/Users/juniorfranzao/.m2/repository/org/junit/platform/junit-platform-runner/1.5.2/junit-platform-runner-1.5.2.jar:/Users/juniorfranzao/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/juniorfranzao/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/juniorfranzao/.m2/repository/org/junit/platform/junit-platform-launcher/1.5.2/junit-platform-launcher-1.5.2.jar:/Users/juniorfranzao/.m2/repository/org/junit/platform/junit-platform-suite-api/1.5.2/junit-platform-suite-api-1.5.2.jar:/Users/juniorfranzao/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/juniorfranzao/.m2/repository/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar:/Users/juniorfranzao/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/juniorfranzao/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/juniorfranzao/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:/Users/juniorfranzao/.m2/repository/com/google/code/gson/gson/2.8.7/gson-2.8.7.jar:/Users/juniorfranzao/.m2/repository/io/qameta/allure/allure-junit5/2.14.0/allure-junit5-2.14.0.jar:/Users/juniorfranzao/.m2/repository/io/qameta/allure/allure-junit-platform/2.14.0/allure-junit-platform-2.14.0.jar:/Users/juniorfranzao/.m2/repository/io/qameta/allure/allure-java-commons/2.14.0/allure-java-commons-2.14.0.jar:/Users/juniorfranzao/.m2/repository/io/qameta/allure/allure-model/2.14.0/allure-model-2.14.0.jar:/Users/juniorfranzao/.m2/repository/org/apache/tika/tika-core/1.26/tika-core-1.26.jar:/Users/juniorfranzao/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar:/Users/juniorfranzao/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar:/Users/juniorfranzao/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar:/Users/juniorfranzao/.m2/repository/org/jooq/joor-java-8/0.9.14/joor-java-8-0.9.14.jar:/Users/juniorfranzao/.m2/repository/io/qameta/allure/allure-test-filter/2.14.0/allure-test-filter-2.14.0.jar:/Users/juniorfranzao/.m2/repository/org/aspectj/aspectjweaver/1.9.7/aspectjweaver-1.9.7.jar
+java.vm.vendor=Oracle Corporation
+sun.arch.data.model=64
+idea.test.cyclic.buffer.size=1048576
+java.vendor.url=https://java.oracle.com/
+user.timezone=America/Sao_Paulo
+java.vm.specification.version=21
+os.name=Mac OS X
+sun.java.launcher=SUN_STANDARD
+user.country=BR
+sun.boot.library.path=/Users/juniorfranzao/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home/lib
+sun.java.command=com.intellij.rt.junit.JUnitStarter -ideVersion5 -junit5 io.github.MIRIANJSM.tests.login.tests.LoginTest,deveRealizarOLoginComUserNameInvalido
+http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+jdk.debug=release
+allure.results.directory=/Users/juniorfranzao/Downloads/SicredDesafio/target/allure-results
+sun.cpu.endian=little
+user.home=/Users/juniorfranzao
+user.language=pt
+sun.stderr.encoding=UTF-8
+java.specification.vendor=Oracle Corporation
+java.version.date=2023-10-17
+java.home=/Users/juniorfranzao/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home
+file.separator=/
+java.vm.compressedOopsMode=Zero based
+sun.stdout.encoding=UTF-8
+line.separator=
+
+java.vm.specification.vendor=Oracle Corporation
+java.specification.name=Java Platform API Specification
+apple.awt.application.name=JUnitStarter
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+java.runtime.version=21.0.1+12-29
+user.name=juniorfranzao
+stdout.encoding=UTF-8
+path.separator=:
+os.version=13.6
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=UTF-8
+junit.jupiter.execution.parallel.config.strategy=dynamic
+java.vm.name=OpenJDK 64-Bit Server VM
+junit.jupiter.execution.parallel.enabled=true
+java.vendor.url.bug=https://bugreport.java.com/bugreport/
+java.io.tmpdir=/var/folders/93/8rxqlqxx5jg_pbwrb_0rjh1w0000gn/T/
+java.version=21.0.1
+user.dir=/Users/juniorfranzao/Downloads/SicredDesafio
+os.arch=x86_64
+java.vm.specification.name=Java Virtual Machine Specification
+native.encoding=UTF-8
+java.library.path=/Users/juniorfranzao/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+junit.jupiter.extensions.autodetection.enabled=true
+java.vm.info=mixed mode, sharing
+stderr.encoding=UTF-8
+java.vendor=Oracle Corporation
+java.vm.version=21.0.1+12-29
+sun.io.unicode.encoding=UnicodeBig
+socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16
+java.class.version=65.0
+---- Command Line ---
+Empty
+---- Full Classpath ---
+Empty
+---- Compiler Messages ---
+info AspectJ Weaver Version 1.9.7 built on Thursday Jun 24, 2021 at 16:14:45 PDT
+info register classloader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a
+info using configuration file:/Users/juniorfranzao/.m2/repository/io/qameta/allure/allure-junit-platform/2.14.0/allure-junit-platform-2.14.0.jar!/META-INF/aop-ajc.xml
