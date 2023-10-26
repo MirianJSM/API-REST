@@ -105,11 +105,13 @@ Validar o login com password vazio
 
   
 
-  #Bug
+  # Bug
+
+
   CT:  Validar a adiçao de um produto com sucesso
 
   
-  Descriçao: Ao adicionar o produto, o status code esperado é 201 e a API esta retornando 200
+  - Descriçao: Ao adicionar o produto, o status code esperado é 201 e a API esta retornando 200
 
 
 
@@ -119,6 +121,6 @@ Validar o login com password vazio
   CT: Validar a consulta de um produto enviando um token invalido
 
   
-  Descriçao: Ao enviar um token invalido, a mensagem de erro esta: "Invalid/Expired Token!", quando deveria
+  - Descriçao: Ao enviar um token invalido, a mensagem de erro esta: "Invalid/Expired Token!", quando deveria
   ser "UNAUTHORIZED"
 
