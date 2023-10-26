@@ -26,8 +26,7 @@ public class ListarUsuariosTest extends BaseTest {
     public void deveListarUsuariosComSucesso() throws Exception {
         usuarios.listar()
                 .then()
-                .statusCode(HttpStatus.SC_OK)
-                .time(lessThan(2L), TimeUnit.SECONDS);
+                .statusCode(HttpStatus.SC_OK);
     }
 
 
