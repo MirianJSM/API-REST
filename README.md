@@ -6,7 +6,7 @@ Automacao dos testes para as API`S de usuario, produto e status da aplicacao que
 
 
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 
 Java - https://www.java.com/pt-BR/
 
@@ -43,7 +43,6 @@ Garantir que a aplicação está funcionando corretamente de acordo com a docume
 
 
 
-Java: https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
 
 #Plano de Testes
 
